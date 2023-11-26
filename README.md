@@ -1,3 +1,3 @@
 # Ensinando-Git
 
-## vincular repositorio
+## Mini Curso ensinando a utilizar o versionador de codigos GIT
